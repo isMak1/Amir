@@ -1,0 +1,14 @@
+@media (max-width: 750px){
+  .btn{
+    font-size: 5px;
+  }
+  .hero{
+    margin-bottom: -350px;
+  }
+
+}
+
+.success-message {
+  transition: opacity 5s ease-in-out;
+}
+
